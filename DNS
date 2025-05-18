@@ -74,7 +74,6 @@ Upstream DNS-серверы (Паралельные запросы)
 tls://dns.adguard-dns.com
 quic://dns.adguard-dns.com
 quic://dns.alidns.com
-tls://dns.alidns.com
 tls://dns.opendns.com
 tls://1dot1dot1dot1.cloudflare-dns.com
 tls://security.cloudflare-dns.com
