@@ -1,38 +1,66 @@
-Adaway Hosts
-https://adaway.org/hosts.txt
+HaGeZi's Ultimate Blocklist
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_49.txt
 
-uBlock₀ filters – Badware risks
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
+AdGuard DNS filter
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
 
-The Big List of Hacked Malware Web Sites
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt
+EasyList
+https://easylist-downloads.adblockplus.org/easylist.txt
 
-AWAvenue Ads Rule
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt
-
-Perflyst and Dandelion Sprout's Smart-TV Blocklist
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt
-
-WindowsSpyBlocker - Hosts spy rules
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt
-
-HaGeZi Multi NORMAL
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt
-
-Ublock
-https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
+filter_101_EasyList
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/refs/heads/master/filters/ThirdParty/filter_101_EasyList/filter.txt
 
 RU AdList для uBlock Origin
 https://easylist-downloads.adblockplus.org/advblock+cssfixes.txt
 
-Counters
-https://easylist-downloads.adblockplus.org/cntblock.txt
+filter_115_RUAdList
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/refs/heads/master/filters/ThirdParty/filter_115_RUAdList/filter.txt
+
+filter_1_Russian
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/refs/heads/master/filters/filter_1_Russian/filter.txt
+
+The Big List of Hacked Malware Web Sites
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt
+
+filter_213_RUAdListBitBlock
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/refs/heads/master/filters/ThirdParty/filter_213_RUAdListBitBlock/filter.txt
 
 BitBlock
 https://easylist-downloads.adblockplus.org/bitblock.txt
 
-EasyList
-https://easylist-downloads.adblockplus.org/easylist.txt
+Adaway Hosts
+https://adaway.org/hosts.txt
+
+AdAway Default Blocklist
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
+
+uBlock₀ filters – Badware risks
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
+
+Ukrainian Security Filter
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_62.txt
+
+Counters
+https://easylist-downloads.adblockplus.org/cntblock.txt
+
+AdGuard DNS Popup Hosts filter
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
+
+filter_212_RUAdListCounters
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/refs/heads/master/filters/ThirdParty/filter_212_RUAdListCounters/filter.txt
+
+AWAvenue Ads Rule
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt
+
+HaGeZi's Windows/Office Tracker Blocklist
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
+
+WindowsSpyBlocker - Hosts spy rules
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt
+
+Perflyst and Dandelion Sprout's Smart-TV Blocklist
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt
+
 
 
 
