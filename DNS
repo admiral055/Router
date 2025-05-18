@@ -43,13 +43,21 @@ https://easylist-downloads.adblockplus.org/easylist.txt
 
 
 Upstream DNS-серверы (Паралельные запросы)
-https://dns10.quad9.net/dns-query
 tls://dns.adguard-dns.com
 quic://dns.adguard-dns.com
+quic://dns.alidns.com
 tls://dns.alidns.com
-tls://dns.bebasid.com:853
 tls://dns.opendns.com
 tls://1dot1dot1dot1.cloudflare-dns.com
+tls://security.cloudflare-dns.com
+tls://comss.dns.controld.com
+tls://dns10.quad9.net
+tls://dns.opendns.com
+tls://sandbox.opendns.com
+tls://one.one.one.one
+p0.freedns.controld.com
+tls://dot.sb
+tls://anycast.dns.nextdns.io
 
 
 
