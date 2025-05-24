@@ -85,6 +85,9 @@ Upstream DNS-серверы (Паралельные запросы)
 [/cnbj1.fds.api.xiaomi.com/]180.76.76.76 114.114.114.114
 quic://dns.adguard-dns.com
 quic://dns.alidns.com
+quic://comss.dns.controld.com
+quic://ibksturm.synology.me
+quic://doh.tiar.app
 tls://dns.adguard-dns.com
 tls://dns.opendns.com
 tls://1dot1dot1dot1.cloudflare-dns.com
